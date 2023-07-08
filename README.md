@@ -17,17 +17,17 @@ Before running this application, ensure that you have the following prerequisite
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/golang-mongodb-crud.git
+`git clone https://github.com/your-username/golang-mongodb-crud.git`
 
 
 2. Change into the project directory:
 
-cd golang-mongodb-crud
+`cd golang-mongodb-crud`
 
 
 3. Install the dependencies:
 
-go mod download
+`go mod download`
 
 
 4. Update the MongoDB connection URI:
