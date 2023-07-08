@@ -38,7 +38,7 @@ Open the `main.go` file and update the `uri` variable inside the `main` function
 
 To run the application, use the following command:
 
-go run main.go
+`go run main.go`
 
 
 The application will connect to the MongoDB server using the provided connection string and perform CRUD operations on the "persons" collection in the "mydb" database.
